@@ -37,8 +37,8 @@ body {
 }
 .inputBar{
   margin-top: -10%;
-  margin-left: -1%;
-  width: 110em;
+  margin-left: 0%;
+  width: 55em;
 }
 #sendform button {
   background: #007BFF;
